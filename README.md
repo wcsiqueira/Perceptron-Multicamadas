@@ -1,5 +1,7 @@
 🔨 Funcionalidades do projeto :🚧 Projeto em construção 🚧
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+<div align="center">
+  <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Octocat" width="200"/>
+</div>
 
     `Pré-processamento da imagem (normalização, redimensionamento).
     `Implementação da CNN ou uso de um modelo pré-treinado.
