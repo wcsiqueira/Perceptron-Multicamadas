@@ -29,8 +29,8 @@ Usar modelos pré-treinados como ResNet ou VGG pode ser uma ótima escolha, espe
             width: 100%; /* Largura total do contêiner */
         }
         .image-container img {
-            width: 300px; /* Largura fixa para todas as imagens */
-            height: 200px; /* Altura fixa para todas as imagens */
+            width: 360px; /* Largura fixa para todas as imagens */
+            height: 360px; /* Altura fixa para todas as imagens */
             object-fit: cover; /* Garante que a imagem cubra o espaço sem distorcer */
             border: 2px solid #ccc; /* Adiciona uma borda para melhor visualização */
             margin: 5px; /* Espaçamento entre as imagens */
@@ -38,13 +38,13 @@ Usar modelos pré-treinados como ResNet ou VGG pode ser uma ótima escolha, espe
     </style>
 </head>
 <body>
-
-<div class="image-container">
-        <img src="CX 1.1 FD_2.jpg" alt=" # Imagem Inicial">
-        <img src="CX_1.1_FD_2_bw.png" alt="Imagem 2"# Imagem de camada 2 tratamento de Coloração>
-        <img src="CX_1.1_FD_2_grayscale.jpg" alt="# Imagem camada Cinza tratamento aninhado">
+    <div class="image-container">
+        <img src="CX 1.1 FD_2.jpg" alt="Imagem Inicial">
+        <img src="CX_1.1_FD_2_bw.png" alt="Imagem de camada 2 - Tratamento de Coloração">
+        <img src="CX_1.1_FD_2_grayscale.jpg" alt="Imagem camada Cinza - Tratamento Aninhado">
     </div>
-
+</body>
+</html>
 pip install tensorflow pip install keras pip install numpy pip install matplotlib pip install opencv-python
 
 
