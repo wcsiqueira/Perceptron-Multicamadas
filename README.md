@@ -15,9 +15,11 @@ Transfer Learning:
 
 Usar modelos pré-treinados como ResNet ou VGG pode ser uma ótima escolha, especialmente se o seu conjunto de dados não for muito grande. Eles já possuem camadas que capturam características gerais de imagens e podem ser ajustados para a sua tarefa específica.
 
-<img src="CX 1.1 FD_2.jpg">
-<img src ="CX_1.1_FD_2_bw.jpg" >
-< img src ="CX_1.1_FD_2_grayscale.jpg">
+<div class="image-container">
+        <img src="CX 1.1 FD_2.jpg" alt="Imagem 1">
+        <img src="CX_1.1_FD_2_bw.jpg" alt="Imagem 2">
+        <img src="CX_1.1_FD_2_grayscale.jpg" alt="Imagem 3">
+    </div>
 
 pip install tensorflow pip install keras pip install numpy pip install matplotlib pip install opencv-python
 
