@@ -31,18 +31,16 @@ Usar modelos pré-treinados como ResNet ou VGG pode ser uma ótima escolha, espe
 pip install tensorflow
 pip install keras pip install numpy 
 pip install matplotlib pip install opencv-python
-
-
-│ ├── /data/ # Diretório contendo as imagens de treinamento e teste
-│ ├── train/ # Imagens de treinamento
-│ 
-
-
-└── test/ # Imagens de teste 
-  ├── model.py # Arquivo Python contendo a definição da rede neural 
-  ├── train.py # Script para treinar a CNN 
-  ├── predict.py # Script para fazer previsões em novas imagens 
-  ├── README.md # Arquivo de documentação do projeto
-  └── requirements.txt # Bibliotecas necessárias
+projeto/
+│
+├── data/                  # Diretório contendo as imagens de treinamento e teste
+│   ├── train/             # Imagens de treinamento
+│   └── test/              # Imagens de teste
+│
+├── model.py               # Arquivo Python contendo a definição da rede neural
+├── train.py               # Script para treinar a CNN
+├── predict.py             # Script para fazer previsões em novas imagens
+├── README.md              # Arquivo de documentação do projeto
+└── requirements.txt       # Bibliotecas necessárias
 
 
