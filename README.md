@@ -1,11 +1,12 @@
 🔨 Funcionalidades do projeto :🚧 Projeto em construção 🚧
+https://myoctocat.com/assets/images/base-octocat.svg
 
     `Pré-processamento da imagem (normalização, redimensionamento).
     `Implementação da CNN ou uso de um modelo pré-treinado.
     `Treinamento com um conjunto de imagens rotuladas.
     `Avaliação de métricas de desempenho como acurácia, F1-score, etc.
 
-*Implementação Inicial :
+## Implementação Inicial :
 
 CNN: Rede Neural Convolucional.
 
@@ -23,7 +24,12 @@ Usar modelos pré-treinados como ResNet ou VGG pode ser uma ótima escolha, espe
     </div>
 </body>
 </html>
-
+,
+```
+git status
+git add
+git commit
+```
 
 
 # 🛠️ Abrir e rodar o projeto
