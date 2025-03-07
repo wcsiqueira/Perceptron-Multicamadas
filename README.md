@@ -17,9 +17,9 @@ Usar modelos pré-treinados como ResNet ou VGG pode ser uma ótima escolha, espe
 
 <body>
     <div class="image-container">
-        <img src="CX 1.1 FD_2.jpg" alt="Imagem Inicial" width="400" height="400">
-        <img src="CX_1.1_FD_2_bw.png" alt="Imagem de camada 2 - Tratamento de Coloração" width="400" height="400">
-        <img src="CX_1.1_FD_2_grayscale.jpg" alt="Imagem camada Cinza - Tratamento Aninhado" width="400" height="400">
+        <img src="CX 1.1 FD_2.jpg" alt="Imagem Inicial" width="300" height="300">
+        <img src="CX_1.1_FD_2_bw.png" alt="Imagem de camada 2 - Tratamento de Coloração" width="300" height="300">
+        <img src="CX_1.1_FD_2_grayscale.jpg" alt="Imagem camada Cinza - Tratamento Aninhado" width="300" height="300">
     </div>
 </body>
 </html>
