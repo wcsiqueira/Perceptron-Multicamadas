@@ -1,7 +1,10 @@
-🔨 Funcionalidades do projeto :🚧 Projeto em construção 🚧
 <div align="center">
   <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Octocat" width="200"/>
 </div>
+
+
+🔨 Funcionalidades do projeto :🚧 Projeto em construção 🚧
+
 
     `Pré-processamento da imagem (normalização, redimensionamento).
     `Implementação da CNN ou uso de um modelo pré-treinado.
