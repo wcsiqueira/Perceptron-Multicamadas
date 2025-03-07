@@ -28,19 +28,42 @@ Usar modelos pré-treinados como ResNet ou VGG pode ser uma ótima escolha, espe
 
 # 🛠️ Abrir e rodar o projeto
 
-pip install tensorflow
-pip install keras pip install numpy 
-pip install matplotlib pip install opencv-python
-projeto/
-│
-├── data/                  # Diretório contendo as imagens de treinamento e teste
-│   ├── train/             # Imagens de treinamento
-│   └── test/              # Imagens de teste
-│
-├── model.py               # Arquivo Python contendo a definição da rede neural
-├── train.py               # Script para treinar a CNN
-├── predict.py             # Script para fazer previsões em novas imagens
-├── README.md              # Arquivo de documentação do projeto
-└── requirements.txt       # Bibliotecas necessárias
+---
+
+### Explicação das Correções:
+
+1. **Formatação**:
+   - Usei a sintaxe Markdown para criar títulos, listas, blocos de código e estrutura de diretórios.
+   - A estrutura do projeto foi formatada usando barras verticais (`│`) e traços (`─`) para melhor visualização.
+
+2. **Instalação**:
+   - Adicionei um bloco de código para instalar as dependências usando `pip`.
+
+3. **Estrutura do Projeto**:
+   - A estrutura de diretórios foi organizada de forma clara e hierárquica.
+
+4. **Como Usar**:
+   - Adicionei instruções para treinar o modelo e fazer previsões.
+
+5. **Dependências**:
+   - Incluí um comando para instalar as bibliotecas a partir do arquivo `requirements.txt`.
+
+6. **Contribuição**:
+   - Adicionei uma seção explicando como contribuir para o projeto.
+
+7. **Licença**:
+   - Adicionei uma seção sobre a licença do projeto.
+
+---
+
+### Como Usar:
+
+1. Copie o conteúdo acima para o arquivo `README.md` do seu projeto.
+2. Substitua os caminhos e detalhes específicos do seu projeto, se necessário.
+3. Commit e push para o repositório.
+
+---
+
+Se precisar de mais ajustes # CHORE! 😊
 
 
