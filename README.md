@@ -124,7 +124,7 @@ model.summary()  # Exibir resumo do modelo
 </html>
 
 - Extraem características das imagens usando filtros.
-  ##Imagem Incorreta Captada Corretamente
+  ## Imagem Incorreta Captada Corretamente
 
   <body>
     <div class="image-container">
