@@ -116,9 +116,9 @@ model.summary()  # Exibir resumo do modelo
 
 <body>
     <div class="image-container">
-        <img src="CX 1.1 FD_2.jpg" alt="Imagem Inicial" width="280" height="280">
-        <img src="CX_1.1_FD_2_bw.png" alt="Imagem de camada 2 - Tratamento de Coloração" width="280" height="280">
-        <img src="CX_1.1_FD_2_grayscale.jpg" alt="Imagem camada Cinza - Tratamento Aninhado" width="280" height="280">
+        <img src="CX 1.1 FD_2.jpg" alt="Imagem Inicial" width="260" height="260">
+        <img src="CX_1.1_FD_2_bw.png" alt="Imagem de camada 2 - Tratamento de Coloração" width="260" height="260">
+        <img src="CX_1.1_FD_2_grayscale.jpg" alt="Imagem camada Cinza - Tratamento Aninhado" width="260" height="260">
     </div>
 </body>
 </html>
