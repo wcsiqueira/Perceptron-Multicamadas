@@ -128,7 +128,7 @@ model.summary()  # Exibir resumo do modelo
 
   <body>
     <div class="image-container">
-        <img src="polietileno_de_alta_densidade_Primeplas.jpg" alt="Imagem Inicial" width="280" height="280">
+        <img src="polietileno_de_alta_densidade_Primeplas.jpg" alt="Imagem Inicial" width="280" height="340">
        
     </div>
 </body>
