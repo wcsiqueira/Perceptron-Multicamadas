@@ -124,6 +124,15 @@ model.summary()  # Exibir resumo do modelo
 </html>
 
 - Extraem características das imagens usando filtros.
+  ##Imagem Incorreta Captada Corretamente
+
+  <body>
+    <div class="image-container">
+        <img src="polietileno_de_alta_densidade_Primeplas.jpg" alt="Imagem Inicial" width="280" height="280">
+       
+    </div>
+</body>
+</html>
 
 ### Camadas de Pooling
 - Reduzem a dimensionalidade espacial, mantendo as características mais importantes.
